@@ -1,7 +1,6 @@
 # IBM DS Specialization-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods
 ## OPENING A VEGAN RESTAURANT IN TORONTO
-
-
+![]()
 
 ## Project Description
 
@@ -28,4 +27,6 @@ Applying the **K-Means clustering algorithm**, we got different clusters of Neig
 Taking all that into account I selected the most 4 suitable neighborhoods within the cluster. I analyzed each one according to the most common venues in them to be able to give the best recommendation to our stakeholders.
 The final decision on optimal Vegan/Vegetarian location would be given to the stakeholders but they would be also encouraged to take into consideration additional factors such as accessibility or locals rent opportunities.
 
+## Links
 
+This repository contains a complete [project report](https://github.com/elesalgueiro/IBM-COURSERA-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods/blob/main/APPLIED%20DATA%20SCIENCE%20CAPSTONE%20%20-%20Final%20Report.pdf), a [pdf presentation]( https://github.com/elesalgueiro/IBM-COURSERA-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods/blob/main/Applied%20Data%20Science%20Capstone%20PRESENTATION%20-IBM%20Coursera.pdf) and the [python codes]( https://github.com/elesalgueiro/IBM-COURSERA-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods/blob/main/IBM%20DS%20CAPSTONE%20PROJECT%20-%20A%20New%20Vegan%20Restaurant%20in%20Toronto.ipynb). 
