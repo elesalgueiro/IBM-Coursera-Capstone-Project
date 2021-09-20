@@ -1,4 +1,4 @@
-# IBM DS Specialization-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods
+# IBM DS Specialization-CAPSTONE-PROJECT
 ## OPENING A VEGAN RESTAURANT IN TORONTO
 ![](https://github.com/elesalgueiro/IBM-COURSERA-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods/blob/main/Vegan%20Image%20RM.jpg)
 
