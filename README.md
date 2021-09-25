@@ -1,4 +1,4 @@
-# IBM DS Specialization-CAPSTONE-PROJECT
+# IBM Data Science Capstone Project 
 ## OPENING A VEGAN RESTAURANT IN TORONTO
 ![](https://github.com/elesalgueiro/IBM-COURSERA-CAPSTONE-PROJECT---The-Battle-of-Neighborghoods/blob/main/Vegan%20Image%20RM.jpg)
 
@@ -22,7 +22,7 @@ With  Foursquare API I investigate the settings in Neighborhoods of Toronto and 
 
 Applying the **K-Means clustering algorithm**, we got different clusters of Neighborhoods in Toronto according to the average of Vegan/Vegetarian Restaurants. After having analyzed the clusters one by one we chose the cluster with fewer Vegan/Restaurants on average, therefore with fewer competitors. Moreover, having assumed that the type of clients in a yoga studio can most likely be a potential customer of a vegan restaurant, it should be noted that this cluster is also the one with the highest number of Yoga Studios. 
 
-Taking al this into account, I selected the most 4 suitable neighborhoods within the cluster. I analyzed each one according to the most common venues in them to be able to give the best recommendation to our stakeholders.
+Taking all this into account, I selected the most 4 suitable neighborhoods within the cluster. I analyzed each one according to the most common venues in them to be able to give the best recommendation to our stakeholders.
 The final decision on optimal Vegan/Vegetarian location would be given to the stakeholders but they would be also encouraged to take into consideration additional factors such as accessibility or locals rent opportunities.
 
 ## Links
